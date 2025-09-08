@@ -30,3 +30,5 @@ insert_data.html
 A form is a place where a user can input data. 
 
 insertdata.php
+
+SLut
